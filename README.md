@@ -1,5 +1,5 @@
 # Quiz-8
-## **Imaging Inpiration**
+## **Imaging Inspiration**
 
 ![Example images](readmeImages/Inspiration1.png)
 ![Example images](readmeImages/Inspiration2.png)
